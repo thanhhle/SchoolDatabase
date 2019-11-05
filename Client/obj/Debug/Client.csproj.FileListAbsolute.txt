@@ -1,0 +1,48 @@
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\SchoolDB.mdf
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\SchoolDB_log.ldf
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\Client.exe.config
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\Client.exe
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\Client.pdb
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\BusinessLayer.exe
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\DataAccessLayer.exe
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\EntityFramework.dll
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\BusinessLayer.pdb
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\BusinessLayer.exe.config
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\DataAccessLayer.pdb
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\DataAccessLayer.exe.config
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\EntityFramework.xml
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\obj\Debug\Client.exe
+C:\Users\thanh\OneDrive\Desktop\Lab Assignment 6\Client\obj\Debug\Client.pdb
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\SchoolDB.mdf
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\SchoolDB_log.ldf
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\Client.exe.config
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\Client.exe
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\Client.pdb
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\BusinessLayer.exe
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\DataAccessLayer.exe
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\EntityFramework.dll
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\BusinessLayer.pdb
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\BusinessLayer.exe.config
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\DataAccessLayer.pdb
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\DataAccessLayer.exe.config
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\EntityFramework.xml
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\obj\Debug\Client.exe
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 6\Client\obj\Debug\Client.pdb
